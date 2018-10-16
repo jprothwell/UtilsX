@@ -1,0 +1,6 @@
+framework module UtilsX {
+  umbrella header "UtilsX-umbrella.h"
+
+  export *
+  module * { export * }
+}
